@@ -1,0 +1,31 @@
+# .NET build files
+bin/
+obj/
+
+# Test results
+TestResults/
+*.trx
+
+# Playwright reports and traces
+playwright-report/
+test-results/
+trace.zip
+
+# Visual Studio and VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Temporary debugging files
+accessibility-debug.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated Reqnroll files
+*.feature.cs
+
+# Local screenshots
+Screenshot *.png
